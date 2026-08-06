@@ -12,5 +12,13 @@ int binarySearch(int arr[], int low, int high, int target) {
             low=mid+1;
         }
     }
+return -1;
+}
 
+int main(){
+    int n;int target; int arr[];
+    cout << "Enter the size of the Array: " << endl;
+    cin >> n;
+    cout << "Enter the Array Elements: "<< endl;
+    for()
 }
